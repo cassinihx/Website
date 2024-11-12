@@ -1,0 +1,83 @@
+/* Global Styles */
+body {
+    background-color: black;
+}
+
+header {
+    background-color: indigo;
+}
+
+main {
+    background-color: cadetblue;
+}
+
+footer {
+    background-color: indigo;
+}
+
+h1 {
+    padding-top:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:whitesmoke;
+    text-align: center;
+}
+
+button {
+    border-radius: 8px;
+    background-color: indigo;
+    padding: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+    float: center;
+    font-size: large;
+    border-color: white;
+    color: white;
+}
+
+/* styles section */
+
+/* section {
+    border: 1px solid black;
+    padding: 5px;
+} */
+
+/* homepage styles */
+.btn-align-center{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.btn-align-center button {
+    margin-right: 10px;
+    margin-left: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main-body {
+    display: flex;
+    justify-content: center;
+}
+
+.designPoster {
+    padding-right: 2%;
+    padding-left: 2%;
+    width: 40%;
+}
+.designPoster2 {
+        padding-right: 2%;
+        padding-left: 2%;
+        width: 40%;
+}
